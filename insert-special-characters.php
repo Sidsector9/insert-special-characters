@@ -40,4 +40,4 @@ function gcm_block_enqueue_scripts() {
 }
 add_action( 'enqueue_block_editor_assets', __NAMESPACE__ . '\gcm_block_enqueue_scripts' );
 
-// A mock change.
+// A mock change..
