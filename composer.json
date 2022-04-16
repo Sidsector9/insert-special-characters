@@ -12,11 +12,7 @@
     ],
     "minimum-stability": "dev",
     "prefer-stable": true,
-    "require": {},
     "require-dev": {
-        "10up/wpacceptance": "^0.16.5"
-    },
-    "scripts": {
-        "test:acceptance": "wpacceptance run"
+        "10up/phpcs-composer": "dev-master"
     }
 }
